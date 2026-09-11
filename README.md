@@ -18,12 +18,12 @@ Ho realizzato applicazioni con frontend React, API Python e applicazioni web con
 | Progetto | Descrizione | Contesto |
 | --- | --- | --- |
 | [Finance Tracker](https://github.com/Janna-v/finance-tracker) | Gestione di entrate e uscite, filtri, paginazione, saldo e riepiloghi con FastAPI e React. | Individuale |
-| [Chronicle](https://github.com/Janna-v/ProgettoFinaleGiovannaVird-) | Applicazione editoriale con Spring Boot, articoli, categorie, ruoli e candidature. | Progetto finale individuale del percorso Java |
-| [Postly](https://github.com/Janna-v/PowerDev_Postly_Manlio_Michael_Giovanna_Giacomo) | Applicazione Laravel per pubblicazione e revisione di articoli, con categorie, tag e ruoli editoriali. | Di gruppo |
-| [Presto.it](https://github.com/Janna-v/2025-06-06_esercitazione20_GiovannaVirdo-Presto.it) | Prototipo frontend di un portale di annunci con dati JSON, filtri e ordinamento. | Individuale |
-| [Smart Finance](https://github.com/Janna-v/smart-finance-doker) | Progetto in sviluppo con FastAPI, React, TypeScript e MySQL; Docker per backend e database. | Individuale |
+| [Chronicle](https://github.com/Janna-v/chronicle) | Applicazione editoriale con Spring Boot, articoli, categorie, ruoli e candidature. | Progetto finale individuale del percorso Java |
+| [Postly](https://github.com/Janna-v/postly) | Applicazione Laravel per pubblicazione e revisione di articoli, con categorie, tag e ruoli editoriali. | Di gruppo |
+| [Presto.it](https://github.com/Janna-v/presto-frontend) | Prototipo frontend di un portale di annunci con dati JSON, filtri e ordinamento. | Individuale |
+| [Smart Finance](https://github.com/Janna-v/smart-finance) | Progetto in sviluppo con FastAPI, React, TypeScript e MySQL; Docker per backend e database. | Individuale |
 
-Altri progetti: [Mini Biblioteca](https://github.com/Janna-v/esercitazioneBCONS), [Drop Game](https://github.com/Janna-v/GiovannaVird-_java-demogioco1) e [Inspiration Blog](https://github.com/Janna-v/Blog-in-html-e-CSS-GioVir).
+Altri progetti: [Mini Biblioteca](https://github.com/Janna-v/mini-biblioteca), [Drop Game](https://github.com/Janna-v/drop-game-java) e [Inspiration Blog](https://github.com/Janna-v/inspiration-blog).
 
 ## Formazione
 
